@@ -1,0 +1,7 @@
+print("Persona: ¡Hola gatito! ¿Viste la pelicula de Garfield?")
+print("Gato: Miau... ¡Hola! claro que si, ese gato naranja me cae bien.")
+print("Persona: Me encanta que le guste lasaña, es mi plato favorito.")
+print("Gato: Miau... a mi gusta el atún.")
+print("Persona: En otra ocasión te invito a comer atún, ¿De acuerdo?")
+print("Gato: Miau... ¡gracias! nos vemos.")
+print("Persona: Cuidate mucho.")

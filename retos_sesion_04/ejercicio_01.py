@@ -1,0 +1,11 @@
+# En este ejercicio imprimiremos un triángulo rectángulo utilizando asteriscos y prints
+print("*")
+print("**")
+print("***")
+print("****")
+print("*****")
+print("******")
+print("*******")
+print("********")
+print("*********")
+print("**********")

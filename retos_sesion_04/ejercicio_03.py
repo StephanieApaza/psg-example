@@ -1,0 +1,12 @@
+# Reglas del juego de mesa UNO
+print("REGLAS DEL JUEGO UNO")
+print("1. Cada jugador recibe 7 cartas al comenzar.")
+print("2. El resto del mazo se coloca boca abajo para que se puedan ir sacando cartas.")
+print("3. Se voltea la primera carta del mazo al centro para inicial el juego.")
+print("4. En cada turno de un jugador, se debe colocar una carta que coincida en el color o número de la primera carta colocada.")
+print("5. Si no coincide la carta en color o número, se debe sacar una carta del mazo.")
+print("6. Las cartas especiales son: +2, +4, reversa, el de salto y cambio de color.")
+print("7. Si un jugador lanza una carta +2 o +4, el siguiente debe tomar las cartas y pierde ese turno.")
+print("8. Cuando a un jugador le queda una sola carta debe decir UNO.")
+print("9. Si otro jugador lo descubre sin decir UNO, debe sacar otras dos cartas.")
+print("10. Gana el primer jugador que se quede sin cartas.")

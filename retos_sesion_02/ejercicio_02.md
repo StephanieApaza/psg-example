@@ -12,6 +12,11 @@ Soy una profesional en el área de Contaduría Pública con experiencia en **aud
 
 ### Experiencia destacada
 He trabajado en auditorías para empresas de seguros,industriales, comerciales y programas financiados por organismos internacionales.
+
+### Idiomas hablados
+1. Castellano (nativo)
+2. Inglés
+3. Aymara
   
 ### Frase favorita
 >Ten el coraje de seguir a tu corazón e intuición. De algún  modo, ellos ya saben en lo que realmente quieres convertirte. Todo lo demás es secundario.

@@ -1,12 +1,11 @@
-# Calculo de salario 
-# Cantidad de horas trabajadas es 160 y la tarifa por hoea es de 5.5 USD/hora
+# Calculo del total a pagar
 
 # Definición de variables
-cantidad_horas = 160
-tarifa = 5.5
+cantidad = 12
+precio = 3.75
 
-# Calculo del salario
-salario = cantidad_horas * tarifa
+# Calculo del costo de los productos
+total = cantidad * precio
 
 # Resultado
-print("El salario es:",salario,"USD")
+print("Si se compran 12 productos el total a pagar es:",total,"USD")

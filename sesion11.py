@@ -168,3 +168,18 @@ print(ave)
 ave = aves['aguila']
 print(ave)
 
+# Reto de la sesion
+libros = {
+    'libro_uno': {'titulo': 'Harry Potter y la orden del Fenix', 'autor': 'J.k. Rowling', 'copias': 3},
+    'libro_dos': {'titulo': 'El Origen', 'autor': 'Dan Brown', 'copias':5},
+    'libro_tres': {'titulo': 'El Club de las 5 am', 'autor': 'Robin Sharma', 'copias':2}
+}
+
+libro_HP = 'libro_uno' in libros
+print("¿La biblioteca tiene el libro de Harry Potter?: ",libro_HP)
+
+copias = libros['libro_uno']
+disponible = copias['copias']
+
+print("El número de copias disponibles es :", disponible)
+

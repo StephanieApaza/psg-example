@@ -4,14 +4,13 @@
 # Fórmula del punto medio: ((x1 + x2)/2, (y1 + y2)/2)
 
 # Coordenadas
-x1 = -20
-y1 = -20
-x2 = 40
-y2 = 20
+coordenada_1 = (-20, -20)
+coordenada_2 = (40, 20)
+
 
 # Aplicación de la fórmula
-x = (x1 + x2)/2
-y = (y1 + y2)/2
+x = (coordenada_1[0] + coordenada_2[0])/2
+y = (coordenada_1[1]+ coordenada_2[1])/2
 
 # Punto medio
 punto_medio = (x, y)

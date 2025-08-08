@@ -16,11 +16,7 @@ while True:
         canasta_frutas.append(fruta)
     except FrutaNoPermitida as e:
         print("❌ !Error¡", e)
-    except Exception as e:
-        print("🚫 !Error inesperado¡", e)
-    else:
-        print("✅ Fruta agregada correctamente.")
-    finally:
-        print("🧺 Canasta de frutas: ", canasta_frutas)
+
+print("🧺 Canasta final de frutas: ", canasta_frutas)
 
 

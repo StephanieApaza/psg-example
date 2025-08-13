@@ -1,6 +1,6 @@
 # Elimina los elementos de oficina repetidos de la cadena
 
-items = ('📎','📐','📏','✏️','🖊️','🖋️','📎','📌','📏','📇','🗂️','📁','📌','🗃️','✏️','📂','🖇️')
+items = "📎📐📏✏️🖊️🖋️📎📌📏📇🗂️📁📌🗃️✏️📂🖇️"
 
 # Declarando set debido a que no permite elementos repetidos
 conjunto_items = set(items)

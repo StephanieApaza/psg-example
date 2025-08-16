@@ -24,6 +24,7 @@ def adivina(secreto):
                 print ("Por favor, ingresa un número válido.")
             finally:
                 intentos += 1
+        # Correción de {intentos * 10}        
         print (f"Has adivinado el número en {intentos} intentos.\n")
 
 def jugar():
@@ -39,6 +40,7 @@ def jugar():
 
     while True:
         opcion = input("¿Quieres jugar? escribe 's' para jugar y 'n' para terminar el juego (s/n): ")
+        # Si la letra ingresada es diferente a 's' minúscula el juego termina
         if opcion.lower() != 's':
             print("¡Gracias por participar!")
             print(f"🐍 Gracias {nombre_jugador.upper()} por ser parte del Python Study Group 2025! 🐍")

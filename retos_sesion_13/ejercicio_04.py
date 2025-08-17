@@ -5,7 +5,7 @@ print("Vericación si la frase es palíndromo:")
 
 while True:
     frase = input("Escribe una frase (si escribes salir terminará la ejecución): ")
-    if frase.lower() == "salir":
+    if "salir" in frase.lower():
         break
     frase_limpia = frase.replace(" ", "").lower()
     if frase_limpia == frase_limpia[::-1]:
